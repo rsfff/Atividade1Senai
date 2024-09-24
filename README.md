@@ -10,3 +10,12 @@ git push -u origin master
 RONIEL FARIA
 LEONARDO BOVOLIN
 PAULO HENRIQUE CLT 
+
+A
+B
+C
+D
+E
+F
+G
+H
